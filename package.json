@@ -30,7 +30,7 @@
     "constantinople": "^4.0.1",
     "faker": "^4.1.0",
     "minimist": "^1.2.5",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "mongoose": "^5.9.3",
     "osmosis": "^1.1.10",
     "sinon": "^9.0.2",
